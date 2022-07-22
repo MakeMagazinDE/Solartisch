@@ -5,9 +5,9 @@
 Maker Media GmbH
 *** 
 
-# Der Solartisch 4/22
+# Der Solartisch und die grüne Steckdose aus Make 4/22
 
-### 
+### Eigentlich sollte nur ein Solarpanel aufgestellt werden, mangels Platz wurde daraus der Solartisch. Damit der gewonnene Strom auch am Abend nutzbar ist, kam eine Pufferbatterie dazu. Nur wie bindet man das alles möglichst ohne Elektriker ins Hausstromnetz ein? Wer verbraucht eigentlich den ganzen Strom? Am Ende entstand daraus die Wurzel unserer eigenen kleinen Energiewende: Grüner Strom wird erzeugt, gemessen und die Verbraucher werden entsprechend gesteuert.
 
 ![Picture](/aufmacher_github.jpg) 
 
